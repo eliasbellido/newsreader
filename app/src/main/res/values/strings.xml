@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">News Reader</string>
+    <string name="offline_state_message">Estás navegando sin una conexión a internet.</string>
+    <string name="successfully_archived_news_message">Titulares archivados!</string>
+    <string name="top_headlines_string">Titulares Top</string>
+    <string name="technology_headlines_string">Titulares de Tecnología</string>
+    <string name="business_headlines_string">Titulares de Negocio</string>
+    <string name="archived_headlines_string">Mis Titulares</string>
+</resources>
